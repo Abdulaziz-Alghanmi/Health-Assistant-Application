@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "health-assistant-qcmw",
+  "private_key_id": "c10c92ae16c9eaf2e89db1788693389e1098bc78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQF8cSXLA2stZ2\nQRvbhjklpexzeBgQuNhYnS+L/jpph05NZdpohKw+sK0RfJcdIyQ0pir4lgtUtkoo\nG9dqv9naP5gYjr+Q10PtiLOx0Qxt/9nH3ruIWjkU7lk3rQFFtO/o4nxETNS5VYOG\nQk29wWr6mGoejQjjF7aSyofXK8PxanxtWpXT6gzsglMvAsZ4br4BLVKXnYyGUT1D\nOW/SUjDL/w+CUlu8uPTs+3/EUtsp6B1SRwp/iPZFToDHrBnlZ8OjQwO3InnJiQDJ\nuJXSpgl/WGxb0lsrloQ+Ba43+BVy68IJYoxAbXRgigBdj+hwncUNz0RuUAlqxU5o\nZzO3EaiVAgMBAAECggEAM+ylm5vUEjn6541J3R8uu77hiLC3t1rs923ZQvDfmsSb\n9m8kN/LLYSHok/saN3FA7EoPBRqIxcOU0IRL6ddtyWSOShcyuB6ih1fyLTtAZ+lB\nUPGWEao1lLHZa6NH6JcttvXawwAOziSfK0P8YMtw4hIHd6/qCm+ypo4eSm8mgnmL\nILDo86RmIPqBf+aqCuxh2FUMSH2JJdoVqWV1V182hBmd6eOoSYzNgT5bkKjf0/W2\n1/IOj0e0aSh8+xcdH2eCu9JpX5r66azEwqHPZ1pc2WeXAhO7e281f5iDumcQ96LW\nyA/lcYZL2Orgeuh17U7JZapNfG+c9EELLTsalHhMVwKBgQDDZNMOh0z4PwffsPRl\nj9qzLzC3HvrkP5ongDGxoLXbHoX9fLap9zqPkiqTE3ho6m5CxlWIdRfrZMCyIT6j\napDdvLsfSLBSpxMk7sxL6JbfYtcL0Bue1mEFepmkdDVJsyb3O3SIixkr+23HDSw0\nwRZpBiPR+BX2YfGNEzp2VXayCwKBgQC8yWtSVGMtNw0aplc+rNtWsnRnKbkYKUhK\nW21C4ZRK7pIEqseybjGcbR7oovOqVzhk0CCXRyL4u5HBwVYpAczHC+6oXK+0+QXi\nMTEAmNVIY8BK8KhW9NyvTREQ/YjG39cxnGO65zNvFelizlVO7nZ3/1OF8aSqAL79\n/sAzvblT3wKBgDbWYCmOrXpqbjJIfn7WfcGWN+zc4/sVIpV9c/TvLrq9eUtoKffP\nq/7JPeujJkMDsEhLU4wFmN32m+IiVGsWqGui4T1pcBrySvwtjOas81LkcYgeMvJE\nJlycSOyPtLjnb8MpS45aw4jFeszHlKWFn12AXKM8JiXM3TcDs3+sgrB7AoGBAI9c\nCQKJEJMaVfohzOjMTPemJlzcwzEE0F+e0/bQ5FKOnhWrNmBZ65SVDL6uV4jIGQv9\nPHKEU5s8nK/cyDf1pPKWLhJt6APugrhEkKiaZoRFM5X08HCwGxGH3Wjgjsgu3PRQ\nhS8+OMGniwY8F24MCayQGHYDjP6H+IFavcvMy/pTAoGAIQ+/xCoUCO9slk7JYVQ8\noQExH2DSETfWkyI8wJjfAO5zhP6vaEYZdjnmleQLjh78yi6sK8VnTYl39u5/+qK1\nvabBdBZ1WrrNtG7XDjaGhWT6sWC/Mi2cKzb5QWFIbXcRuEs3yd9RnmwPP7fNaXo+\nzuOQ3x8v37livpvYaFgJqac=\n-----END PRIVATE KEY-----\n",
+  "client_email": "health-assistant@health-assistant-qcmw.iam.gserviceaccount.com",
+  "client_id": "110934743999823221387",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/health-assistant%40health-assistant-qcmw.iam.gserviceaccount.com"
+}
